@@ -1,6 +1,6 @@
 function createElement(type, props, ...children) {
   const element = document.createElement(type);
-  // props destroucting
+
   let { style, className, children: propsChildren, ...attributes } = props;
   if (children.length) propsChildren = children;
 

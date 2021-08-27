@@ -3,9 +3,10 @@ function render(element, rootNode) {
 }
 
 function hydrate(element, rootNode) {
-  // rootNode.appendChild(element);
+  console.log(element, rootNode);
 }
 
 const MyReactDOM = {
   render,
+  hydrate,
 };
