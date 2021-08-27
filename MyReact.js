@@ -9,7 +9,7 @@ function createElement(type, props, ...children) {
       element.style[name] = value;
     });
   }
-
+// in code besyar zibast
   Object.entries(attributes).forEach(([name, value]) => {
     element.setAttribute(name, value);
   });
