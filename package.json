@@ -1,0 +1,23 @@
+{
+  "name": "my-simple-react",
+  "version": "1.0.0",
+  "description": "A simple react",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrueMoein/MyReact.git"
+  },
+  "keywords": [
+    "react",
+    "simple-react"
+  ],
+  "author": "Moein Alizadeh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TrueMoein/MyReact/issues"
+  },
+  "homepage": "https://github.com/TrueMoein/MyReact#readme"
+}
